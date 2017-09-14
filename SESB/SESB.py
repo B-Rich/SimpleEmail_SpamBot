@@ -11,7 +11,7 @@ from __future__ import print_function
 # py2exe
 
 # I will stop maintaining this script soon.
-# Nobody uses this it anyways.
+# Nobody uses it anyways.
 
 # I might actually give it a GUI.
 
