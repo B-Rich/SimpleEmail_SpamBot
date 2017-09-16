@@ -1,6 +1,14 @@
 # SimpleEmail_SpamBot
 Just a simple email spam bot written in Python. The respositroy name says it all.
 
+## A little update:
+0. 0.8 is indeed coming. I'm not going to delete this repo, heh.
+1. I might change the name later. Because I'll make it an email client.
+2. I'll add a GUI as well. An email client with CLI and GUI.
+3. 0.8 fixes some stuff too.
+
+Also, It seems like someone has forked this repo. I don't know why or what they're going to do with it, but cool :3.
+
 ### KNOWN ISSUES:
 1. whoops
 ```python
