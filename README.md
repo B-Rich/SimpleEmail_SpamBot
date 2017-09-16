@@ -13,17 +13,17 @@ Also, It seems like someone has forked this repo. I don't know why or what they'
 1. whoops
 ```python
 elif command == "set message":
-            try:
-                # yes.
-                spam_subject = raw_input("\nMESSAGE>>> ")
+    try:
+        # yes.
+        spam_subject = raw_input("\nMESSAGE>>> ")
 
-            except KeyboardInterrupt:
-                print("\nStopped.")
+    except KeyboardInterrupt:
+        print("\nStopped.")
 
-            except EOFError:
-                print("\nStopped.")
+    except EOFError:
+        print("\nStopped.")
 
-            self.command_line()
+    self.command_line()
             
 ```
 2. uh yeah
