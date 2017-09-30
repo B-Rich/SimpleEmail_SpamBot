@@ -1,0 +1,42 @@
+/usr/lib/python3.6/site-packages/PyQt5/usr/lib/python3.6/site-packages/PyQt5/__init__.pyurlopenhttps://raw.githubusercontent.com/DizAzTor/SimpleEmail_SpamBot/master/gversion.txt@zoho.comtriggeredsmtp.gmail.com:587selfpopuplabel_4QFontGoodbye!%sMainWindowCounter:loginQMainWindowQLCDNumber {
+    color: rgb(0, 0, 127);
+    background-color: rgb(130, 130, 130);
+}setMenuBarosCtrl+XYesQSpinBoxLogs:Subject: %stimeCheck for UpdatesERROR: Unsupported email.v0.1bfontStopsmtp.zoho.eu:587<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Monospace'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:16px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Sans'; font-size:10pt;"><br /></p></body></html>AboutactionQuitdisplaylabel_6spam_delaysmtp-mail.outlook.com:587Mail sent.retranslateUiaboutQtGuisetFamilyactionRepoutf-8SMTPsetCentralWidgetpushButton_3@outlook.comstarttlsstop_buttonlineEditclickedQuit SESBEmail Subject:exittoolBarsetStatusBarsetPlainTextpasswordFull Email:IgnoredTargets (one email per space/line):setSizePolicyconnectSlotsByNameQWidget__prepare__@gmail.comsetKerningPassword:_translateQApplicationspinBoxaddActionhelp__annotations__actionCheck_for_UpdatesQStatusBar__gversion__Ui_MainWindow.versionQTextEditmenuMenuStopped.		  SESB - GUI
+Shortcuts:
+Ctrl-Q = quit.
+Ctrl-S = spam.
+Ctrl-D = stop.
+Ctrl-X = send.
+
+About:
+SESB-GUI is a graphical user interface (Using PyQt5) version of SESB.
+It doesn't have all of the stuff SESB-CLI
+has, but I might add them soon! :p
+
+It's pretty straightforward. The "Logs" message box is for you, to
+actually know what's going on.
+
+SESB-GUI isn't anything related to SESB-CLI
+The spam function is modified for GUI.
+I mean, I can make it work from the SESB.py (Engine class).
+But right now, I'm just doing it like this.
+I'll change a lot of things in SESB later.
+
+Modes:
+If you're looking for GUI modes, then, there are none yet.
+
+GitHub repo: https://github.com/DizAzTor/SimpleEmail_SpamBot
+
+"Why is it so slow?!"
+1. It's still in alpha.
+2. I'm not using threads/multiprocessing. (It's in my TODO list.)
+
+If you are having problems with SESB or
+just want to say hi or ask me something,
+you can send a message
+to my Telegram account. @dizaztorThis version of SESB-GUI is: {}LinksAccessibleByKeyboardEmail Message:@yahoo.comlcdNumberQToolBarTextBrowserInteractionsmtp.mail.me.com:587label_7spam_subjectsetTextHelp__qualname__QLineEditvaluelabel_8label_2QTextBrowserSMTPAuthenticationErrorFrom: %sTo: %sQCoreApplicationUi_MainWindow.setupUilineEdit_2decodeQtCoreQtWidgetstextEditactionHelp333333#@send_buttonDelay:setTextInteractionFlags@fastmail.fmCtrl+SsetGeometryQMenuExitsetTitlelabel_5Ctrl+QpushButton_4sysstatusbarcentralwidgetERROR: Wrong email or password.TextSelectableByKeyboardQPushButtonTextSelectableByMouseLinksAccessibleByMouselineEdit_3<module>setFixedSizesetWeighttextBrowserUi_MainWindow.send_buttonmail.messagingengine.com:587TextEditablemenubarsmtp.gmx.com:25Ui_MainWindow.retranslateUiprocessEventssetPointSizeQMenuBarehloVersionsetCenterOnScrollsleepsetHtmlargvQSizePolicyTextEditorInteractionhasHeightForWidthsetObjectNamemenuAboutlatest_versionmsglabel_3setOverwriteMode@gmx.usactionExitUi_MainWindow.spam_buttonCtrl+DQLabelQActionsplitaddToolBarsizePolicyplainTextEdityessetVerticalStretchSuccessfully logged in.spam_messagetargetsserverappSendsetBoldUi_MainWindow.quit_tabmenuActionsetStyleSheetquestionsetShortcutQMetaObjecttoPlainTextsmtp.mail.yahoo.com:587metaclasssetHorizontalStretchUi_MainWindow.stop_buttonQPlainTextEditjoinsetBackgroundVisibleClickFocuscheck_for_updatessetEchoModesmtplibsetFocusPolicy/home/dizaztor/GitHub/SimpleEmail_SpamBot/SESB/src/GUI/GSESB.pysetWindowTitleNope, check again later.setFontTopToolBarAreashowexec_actionVersionsetHeightForWidthAre you sure you want to quit SESB-GUI?@icloud.comStarted spamming...QRectUi_MainWindow.check_for_updates
+Yes! There is an update available. It's {}urllib.requestQMessageBoxrstripsendmailUi_MainWindow.helplensumfileiterreprbytescloselevelprintrangethrowtypesformatlocals__all____cmp____doc__compileglobalsinspect__dict____exit____file____iter____main____name____path__fromlist__class____enter__bytearray__cached____import____loader____module____package__classmethod__builtins__staticmethod__metaclass__/usr/bin/python
