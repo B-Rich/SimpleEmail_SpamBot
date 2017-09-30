@@ -211,10 +211,6 @@
     2. _SESB-gui_
         * **SESB-gui** is SESB, but with a graphical user interface. Using **PyQt5**. ~~To open up the GUI, type `./SESB -g` or `./SESB --gui`. For help, type `./SESB -h g`. Very experimental~~. I decided I'd __actually__ split it. It's in the **GUI** directory. Just run it. No arguments. There is a compiled version for it as well.
 
-* TextEditor
-    * Completely unrelated to SESB, I don't even know why it's there. Edit `config.cfg`, maybe?
-    * No, I'm not serious about it lol. I was just bored.
-
 * Command-Mode 0.4:
     * Completely rewritten.
     * All the new commands/changed commands.
